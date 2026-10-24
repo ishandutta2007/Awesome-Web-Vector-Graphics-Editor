@@ -65,82 +65,82 @@ The table below catalogs premier commercial and hosted Web Vector Graphics Edito
 
 ## 💻 Open-Source GitHub Projects
 
-This section showcases premier open-source web vector graphics editors and SVG creation software. Sorted in **descending order by GitHub star count**, each entry features a live social badge linking directly to the project's stargazers community.
+This section showcases premier open-source web vector graphics editors and SVG creation software. Sorted in **descending order by GitHub Stars_Count**, each entry features a live social badge linking directly to the project's stargazers community.
 
 ### Top Open-Source Vector Editors
 
 #### 1. 🌟 [Penpot](https://penpot.app/) — `penpot/penpot`
-[![GitHub stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/penpot/penpot?style=social&color=white)](https://github.com/penpot/penpot/stargazers)
 - **License**: MPL-2.0
 - **Primary Stack**: Clojure, ClojureScript, WebAssembly, SVG/Canvas rendering
 - **Description**: The premier open-source design and prototyping platform built for cross-functional teams. Penpot is natively built around open web standards (SVG, CSS Grid, Flexbox), ensuring that designs translate directly into production-ready code without vendor lock-in.
 - **Key Features**: Multi-user real-time collaboration, native design tokens, component systems, CSS Flex/Grid layout engines, Model Context Protocol (MCP) server support for AI agents, and enterprise self-hosting via Docker and Kubernetes.
 
 #### 2. ✏️ [tldraw](https://tldraw.dev/) — `tldraw/tldraw`
-[![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)
 - **License**: Custom / tldraw SDK Community License (Free for non-commercial & standard use)
 - **Primary Stack**: TypeScript, React, HTML5 Canvas/SVG
 - **Description**: An extraordinarily flexible, infinite canvas vector engine and whiteboard SDK. Powers seamless collaborative vector drawing, freehand path smoothing, procedural geometric shapes, and instant SVG/PNG exports.
 - **Key Features**: Frictionless multiplayer sync engine, plug-and-play React SDK components, customizable vector tools, shape binding, and programmatic canvas APIs.
 
 #### 3. 🦀 [Graphite](https://graphite.rs/) — `GraphiteEditor/Graphite`
-[![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)
 - **License**: Dual MIT / Apache-2.0
 - **Primary Stack**: Rust, WebAssembly, WebGPU (`wgpu`)
 - **Description**: A breakthrough procedural 2D graphics suite that blends traditional vector illustration with a node-based procedural compositing engine (Graphene). The entire pipeline executes locally in your browser at GPU speeds.
 - **Key Features**: Non-destructive node graph architecture, Rust-compiled WebAssembly runtime, GPU-accelerated rendering, sub-pixel vector mathematics, and an ambitious roadmap targeting desktop publishing and motion graphics.
 
 #### 4. 📐 [Draw.io / diagrams.net](https://app.diagrams.net/) — `jgraph/drawio`
-[![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: JavaScript, mxGraph, SVG, XML
 - **Description**: The battle-tested web diagramming and vector drawing suite used by millions globally. Runs completely client-side in the browser with zero cloud storage dependencies unless explicitly configured.
 - **Key Features**: Extensive vector shape libraries, clean SVG/XML export, custom path manipulation, offline execution, and integrations with GitHub, GitLab, Google Drive, and Nextcloud.
 
 #### 5. 🛠️ [SVG-Edit](https://svgedit.netlify.app/editor/index.html) — `SVG-Edit/svgedit`
-[![GitHub stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&color=white)](https://github.com/SVG-Edit/svgedit/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/SVG-Edit/svgedit?style=social&color=white)](https://github.com/SVG-Edit/svgedit/stargazers)
 - **License**: MIT
 - **Primary Stack**: JavaScript (ES6 Modules), HTML5 SVG Canvas
 - **Description**: The veteran browser-based SVG vector editor that paved the way for web-based vector drawing. Completely re-engineered in version 7 into a modern modular architecture.
 - **Key Features**: Separated into `@svgedit/svgcanvas` (headless core engine) and UI layer, embeddable in any web application with a simple `<div>` container, and native extension APIs.
 
 #### 6. 🔍 [VTracer](https://www.visioncortex.org/vtracer-docs/) — `visioncortex/vtracer`
-[![GitHub stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/visioncortex/vtracer?style=social&color=white)](https://github.com/visioncortex/vtracer/stargazers)
 - **License**: AGPL-3.0
 - **Primary Stack**: Rust, WebAssembly
 - **Description**: An open-source, high-fidelity raster-to-vector (SVG) conversion engine that runs entirely in the browser via WebAssembly. Converts bitmap sketches, logos, and photos into geometric vector paths.
 - **Key Features**: High-precision bezier curve fitting, progressive color clustering, zero server processing, and real-time client-side interactive parameter tuning.
 
 #### 7. ⚡ [SVGOMG](https://jakearchibald.github.io/svgomg/) — `jakearchibald/svgomg`
-[![GitHub stars](https://img.shields.io/github/stars/jakearchibald/svgomg?style=social&color=white)](https://github.com/jakearchibald/svgomg/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/jakearchibald/svgomg?style=social&color=white)](https://github.com/jakearchibald/svgomg/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: JavaScript, Service Workers, SVGO
 - **Description**: The gold-standard web GUI for SVG vector optimization. Allows vector artists and developers to strip redundant metadata, round numeric precision, and optimize path commands interactively.
 - **Key Features**: Side-by-side visual diffing, instant gzip/brotli size preview, precision sliders, offline PWA support, and markup inspection.
 
 #### 8. 📍 [SVG Path Editor](https://yqnn.github.io/svg-path-editor/) — `Yqnn/svg-path-editor`
-[![GitHub stars](https://img.shields.io/github/stars/Yqnn/svg-path-editor?style=social&color=white)](https://github.com/Yqnn/svg-path-editor/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Yqnn/svg-path-editor?style=social&color=white)](https://github.com/Yqnn/svg-path-editor/stargazers)
 - **License**: MIT
 - **Primary Stack**: TypeScript, SVG DOM
 - **Description**: A specialized web-based visual editor designed specifically for creating, analyzing, and manipulating raw SVG `<path>` data strings (`d="..."`).
 - **Key Features**: Visual node handles for cubic and quadratic Bézier curves, path scaling, coordinate rounding, command conversion (absolute vs. relative), and live path string serialization.
 
 #### 9. 🎨 [Method Draw](https://editor.method.ac/) — `methodofaction/Method-Draw`
-[![GitHub stars](https://img.shields.io/github/stars/methodofaction/Method-Draw?style=social&color=white)](https://github.com/methodofaction/Method-Draw/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/methodofaction/Method-Draw?style=social&color=white)](https://github.com/methodofaction/Method-Draw/stargazers)
 - **License**: MIT
 - **Primary Stack**: JavaScript, Canvas, SVG
 - **Description**: A minimalist, distraction-free browser vector editor originally forked from SVG-Edit. Intentionally streamlined by removing complex layer trees and obscure settings in favor of immediate usability.
 - **Key Features**: Intuitive pen and shape tools, clean color picker, zero tracking or account mandates, and instantaneous SVG/PNG downloads.
 
 #### 10. ⚙️ [Maker.js](https://maker.js.org/) — `microsoft/maker.js`
-[![GitHub stars](https://img.shields.io/github/stars/microsoft/maker.js?style=social&color=white)](https://github.com/microsoft/maker.js/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/microsoft/maker.js?style=social&color=white)](https://github.com/microsoft/maker.js/stargazers)
 - **License**: Apache-2.0
 - **Primary Stack**: TypeScript, Node.js, Web SVG
 - **Description**: Microsoft's open-source parametric 2D vector drawing and modeling engine for the web. Enables programmatic construction of geometric vectors for CNC machining, laser cutters, and SVG artwork.
 - **Key Features**: Parametric modeling, curve filleting, boolean path intersections, SVG/DXF export, and interactive web playground.
 
 #### 11. 🖼️ [Mondrian](https://github.com/artursapek/mondrian) — `artursapek/mondrian`
-[![GitHub stars](https://img.shields.io/github/stars/artursapek/mondrian?style=social&color=white)](https://github.com/artursapek/mondrian/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/artursapek/mondrian?style=social&color=white)](https://github.com/artursapek/mondrian/stargazers)
 - **License**: MIT
 - **Primary Stack**: CoffeeScript, JavaScript, HTML5 Canvas
 - **Description**: An elegant, open-source web-based vector drawing application designed with modular tools for lines, curves, rectangles, and circular vectors.
@@ -150,7 +150,7 @@ This section showcases premier open-source web vector graphics editors and SVG c
 
 ### Open-Source Feature & Architecture Comparison
 
-| 📦 Repository | ⭐ GitHub Stars | 📜 License | 🏗️ Technology Architecture | 🐳 Self-Hostable (Docker) | 🎯 Best Used For |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🏗️ Technology Architecture | 🐳 Self-Hostable (Docker) | 🎯 Best Used For |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | **[Penpot](https://github.com/penpot/penpot)** | ~61.5k+ | MPL-2.0 | ClojureScript + Wasm + SVG | Yes (Official Docker/K8s) | Collaborative UI/UX design & Figma replacement |
 | **[tldraw](https://github.com/tldraw/tldraw)** | ~51.0k+ | Custom / Free | TypeScript + React + Canvas | Yes (Embeddable SDK) | Infinite whiteboard & interactive vector SDK |
@@ -185,7 +185,7 @@ Contributions are wholeheartedly welcomed! To add or update an entry:
 2. **Edit `README.md`** following the existing tabular structure, ensuring:
    - Tool name and official URL link.
    - Specific starting tier pricing and explicit free tier or free trial limits.
-   - Company scale (valuation/revenue) or GitHub repository link with live star badge.
+   - Company scale (valuation/revenue) or GitHub repository link with live Stars_Badge.
 3. **Verify Markdown formatting** and ensure all links are functioning.
 4. **Submit a Pull Request** with a concise description of your changes.
 
@@ -216,3 +216,12 @@ If this curated repository saved you time or aided your technical evaluation:
 - This is a community-curated research compilation and does not constitute formal commercial endorsement.
 - All product names, logos, and brands are property of their respective owners.
 - Released under the [MIT License](LICENSE). Made with ❤️ for the global web design and developer community.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Web-Vector-Graphics-Editor&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Web-Vector-Graphics-Editor_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Web-Vector-Graphics-Editor_growth.svg">
+  </picture>
+</a>

@@ -2,7 +2,7 @@
 
 # Awesome-Web-Vector-Graphics-Editor
 
-# Top Web Vector Graphics Editor Ecosystem
+## Top Web Vector Graphics Editor Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on SVG-Native Editing, Procedural Node Engines & Self-Hosted Design Platforms*  
